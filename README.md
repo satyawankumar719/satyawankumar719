@@ -67,7 +67,6 @@
 | System Design | HLD, LLD, Scalability, Load Balancing |
 | Backend Engineering | REST APIs, Authentication, Caching |
 | Database Engineering | Indexing, Aggregation, Query Optimization |
-| Architecture | MVC, Layered Architecture, Design Patterns |
 | Distributed Systems | Message Queues, Redis, Background Jobs |
 | AI Engineering | LLMs, RAG, Embeddings, AI Integration |
 
