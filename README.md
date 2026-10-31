@@ -1,6 +1,6 @@
 # Hi 👋, I'm Satyawan Kumar
 
-### Software Developer | MERN Stack Developer | System Design Enthusiast
+### Software Developer | MERN Stack Developer 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Software+Developer;MERN+Stack+Developer;Backend+Engineering+Enthusiast;System+Design+Learner;Building+Scalable+Web+Applications" alt="Typing SVG" />
