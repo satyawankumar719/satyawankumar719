@@ -101,21 +101,6 @@ Tech Stack: React, Node.js, MongoDB
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/satyawankumar719/satyawankumar719/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyawankumar719&theme=tokyo-night&hide_border=true" width="95%" alt="Contribution Graph" />
-</p>
-
----
 
 ## 🏆 GitHub Achievements
 
